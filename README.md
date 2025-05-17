@@ -1,15 +1,3 @@
-designbeam-website/
-├── index.html
-├── portfolio.html
-├── ueber-uns.html
-├── kontakt.html
-├── impressum.html
-├── agb.html
-├── css/
-│   └── style.css
-└── assets/
-    └── images/
-        └── logo.png  ← dein Logo hier einfügen
 <!DOCTYPE html>
 <html lang="de">
 <head>
