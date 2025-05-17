@@ -82,4 +82,3 @@ header p {
     padding: 0.8rem;
     border-bottom: 1px solid #4db6ac;
   }
-}
